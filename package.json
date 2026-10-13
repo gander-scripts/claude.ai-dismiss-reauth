@@ -1,0 +1,20 @@
+{
+  "name": "claude.ai-dismiss-reauth",
+  "description": "Userscript that dismisses claude.ai's \"Sign in again to verify your device\" dialog",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "license": "MIT",
+  "author": "Adam Gąsowski",
+  "repository": "github:gander-labs/claude.ai-dismiss-reauth",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "typescript": "^6.0.3",
+    "vite": "^8.0.11",
+    "vite-plugin-monkey": "^8.0.0"
+  }
+}
