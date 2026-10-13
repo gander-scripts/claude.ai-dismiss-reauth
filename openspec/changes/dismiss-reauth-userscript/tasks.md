@@ -16,4 +16,4 @@
 ## 3. CI and PR
 
 - [x] 3.1 Add `ci.yml` and `auto-assign.yml` from `monkey-redmine-time-widget`, adapt to this project's scripts, and verify YAML is valid and referenced scripts exist
-- [ ] 3.2 Open a pull request with `gh:pr` and verify CI passes
+- [x] 3.2 Open a pull request with `gh:pr` and verify CI passes
