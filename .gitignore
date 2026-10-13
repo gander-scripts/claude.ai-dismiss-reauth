@@ -2,3 +2,4 @@ node_modules/
 dist/
 .idea/
 .ck/
+.claude/settings.local.json
